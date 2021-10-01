@@ -1,0 +1,10 @@
+C:\Users\theen\source\repos\dz4.2\serverwpf\bin\Debug\serverwpf.exe.config
+C:\Users\theen\source\repos\dz4.2\serverwpf\bin\Debug\serverwpf.exe
+C:\Users\theen\source\repos\dz4.2\serverwpf\bin\Debug\serverwpf.pdb
+C:\Users\theen\source\repos\dz4.2\serverwpf\bin\Debug\ClassLibrary2.dll
+C:\Users\theen\source\repos\dz4.2\serverwpf\bin\Debug\ClassLibrary2.pdb
+C:\Users\theen\source\repos\dz4.2\serverwpf\obj\Debug\serverwpf.csprojAssemblyReference.cache
+C:\Users\theen\source\repos\dz4.2\serverwpf\obj\Debug\serverwpf.csproj.CoreCompileInputs.cache
+C:\Users\theen\source\repos\dz4.2\serverwpf\obj\Debug\serverwpf.csproj.CopyComplete
+C:\Users\theen\source\repos\dz4.2\serverwpf\obj\Debug\serverwpf.exe
+C:\Users\theen\source\repos\dz4.2\serverwpf\obj\Debug\serverwpf.pdb

@@ -1,0 +1,6 @@
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\obj\Debug\ClientLibrary.csprojAssemblyReference.cache
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\obj\Debug\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\theen\source\repos\dz4.2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

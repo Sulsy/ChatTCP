@@ -1,0 +1,13 @@
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client two.exe
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client.exe
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client two.pdb
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client two.exe.config
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client.pdb
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\bin\Debug\Client.exe.config
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\obj\Debug\ServerLibrary.csprojAssemblyReference.cache
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\obj\Debug\ServerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\obj\Debug\ServerLibrary.csproj.CopyComplete
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\theen\source\repos\dz4.2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb

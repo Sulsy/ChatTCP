@@ -1,0 +1,18 @@
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.csprojAssemblyReference.cache
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\MainWindow.g.cs
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\App.g.cs
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two_MarkupCompile.cache
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two_MarkupCompile.lref
+C:\Users\theen\source\repos\dz4.2\Client two\bin\Debug\Client two.exe.config
+C:\Users\theen\source\repos\dz4.2\Client two\bin\Debug\Client two.exe
+C:\Users\theen\source\repos\dz4.2\Client two\bin\Debug\Client two.pdb
+C:\Users\theen\source\repos\dz4.2\Client two\bin\Debug\ClassLibrary1.dll
+C:\Users\theen\source\repos\dz4.2\Client two\bin\Debug\ClassLibrary1.pdb
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\MainWindow.baml
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.g.resources
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client_two.Properties.Resources.resources
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.csproj.GenerateResource.cache
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.csproj.CoreCompileInputs.cache
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.csproj.CopyComplete
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.exe
+C:\Users\theen\source\repos\dz4.2\Client two\obj\Debug\Client two.pdb

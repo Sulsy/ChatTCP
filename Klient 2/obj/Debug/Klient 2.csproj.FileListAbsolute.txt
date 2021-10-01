@@ -1,0 +1,10 @@
+C:\Users\theen\source\repos\dz4.2\Klient 2\bin\Debug\Klient 2.exe.config
+C:\Users\theen\source\repos\dz4.2\Klient 2\bin\Debug\Klient 2.exe
+C:\Users\theen\source\repos\dz4.2\Klient 2\bin\Debug\Klient 2.pdb
+C:\Users\theen\source\repos\dz4.2\Klient 2\bin\Debug\ClassLibrary1.dll
+C:\Users\theen\source\repos\dz4.2\Klient 2\bin\Debug\ClassLibrary1.pdb
+C:\Users\theen\source\repos\dz4.2\Klient 2\obj\Debug\Klient 2.csprojAssemblyReference.cache
+C:\Users\theen\source\repos\dz4.2\Klient 2\obj\Debug\Klient 2.csproj.CoreCompileInputs.cache
+C:\Users\theen\source\repos\dz4.2\Klient 2\obj\Debug\Klient 2.csproj.CopyComplete
+C:\Users\theen\source\repos\dz4.2\Klient 2\obj\Debug\Klient 2.exe
+C:\Users\theen\source\repos\dz4.2\Klient 2\obj\Debug\Klient 2.pdb
